@@ -1,4 +1,4 @@
-# Project: Deploy NGINX on AWS using Terraform
+# Deploy NGINX on AWS using Terraform
 
 This Terraform project provisions an EC2 instance inside a custom VPC, sets up networking (VPC, subnets, routing), and installs and starts the NGINX web server. It also opens HTTP access on port 80.
 
