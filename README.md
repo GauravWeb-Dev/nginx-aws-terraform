@@ -87,8 +87,7 @@ Shows the route table associated with the public subnet.
 ## Internet Gateway Setup
 
 Shows the attached internet gateway to the VPC.
-
-!\[Internet Gateway]\(images/11-internet-getway setup.png)
+![Internet Gateway](images/11-internet-getway-setup.png)
 
 ---
 
